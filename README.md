@@ -2,6 +2,8 @@
 
 This project uses React and some of its functionalities like React Context Api and Firebase capabilities to host and authenticate users. Its just a simple replication with login and checkout functionality. 
 
+Hosted URL on firebase : https://clone-2befd.web.app
+
 ## Few things to keep in mind 
 
 * Npm modules required - firebase-tools , firebase , react-router-dom
